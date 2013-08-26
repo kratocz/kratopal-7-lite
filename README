@@ -1,0 +1,7 @@
+Usage: drush make https://raw.github.com/kratocz/drush-make-pressflow-7/master/make.ini [DIR]
+
+* [DIR]: Specified directory instead of current directory where the platform will be placed (optional).
+
+...will download complete Pressflow 7 platform to the new directory DIR (or to current directory).
+
+Use this only at your own risk!
